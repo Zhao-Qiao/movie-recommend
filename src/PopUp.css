@@ -1,0 +1,12 @@
+.popup_menu{
+    display: flex;
+    position: fixed;
+    cursor: pointer;
+    right: 60px;
+    top: 60px;
+}
+.popup_contents{
+    position: relative;
+    width: 180px;
+
+}
